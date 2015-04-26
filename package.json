@@ -1,0 +1,9 @@
+{
+  "name": "mysql-node",
+  "version": "1.0.0",
+  "description" : "An app demonstrating MySQL and Node.js running on the Helion Development Platform.",
+  "repository" : {"type": "git", "url": "git://notyetpublished"},
+  "dependencies": {
+    "mysql": "*"
+  }
+}
